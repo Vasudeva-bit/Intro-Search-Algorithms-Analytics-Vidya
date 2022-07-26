@@ -1,0 +1,2 @@
+In this repository, various search algorithms are coded up with comments. The complete tutorial blog on 
+introduction to Serach Algorithm is published on the Analystics Vidya so, you can have a read! :)
